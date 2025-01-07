@@ -2,7 +2,7 @@ import unittest
 import requests
 
 # Define the base URL for the API
-BASE_URL = "https://your-api-url.com/login"  # Replace with actual API URL
+BASE_URL = "https://api-url.com/login"  # Replace with actual API URL
 
 # Define the test case class
 class TestLoginAPI(unittest.TestCase):
